@@ -1,0 +1,11 @@
+{
+  "Name" : "Akash",
+  "table_mapping" :[{
+    "source_name" : "firstName",
+    "destination_name" : "FIRSTNAME"
+  },
+    {
+      "source_name" : "lastName",
+      "destination_name" : "LASTNAME"
+    }]
+}

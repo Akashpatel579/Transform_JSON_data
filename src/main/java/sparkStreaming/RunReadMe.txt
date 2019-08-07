@@ -1,5 +1,5 @@
 # To upload the jar for deployment - local to cloudera
-scp -P 2222 target/TransformJSONData-1.0-SNAPSHOT.jar cloudera@localhost:/home/cloudera/Clairvoyant/Project/JavaSparkApp/Transform_JSON_Data/
+scp -P 2222 target/TransformJSONData-1.0-SNAPSHOT*******.jar cloudera@localhost:/home/cloudera/Clairvoyant/Project/JavaSparkApp/Transform_JSON_Data/
 TransformJSONData-1.0-SNAPSHOT.jar
 
 # Execute spark-sbumit with the jar

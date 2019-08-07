@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Transform_Complex_Data" />
         <module name="Transform_JSON_data" />
       </profile>
     </annotationProcessing>
